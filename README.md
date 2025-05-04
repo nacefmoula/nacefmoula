@@ -38,7 +38,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nacefmoula&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacefmoula&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
