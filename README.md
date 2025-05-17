@@ -31,15 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" width="40" height="40" alt="SDL"/>
 </p>
 
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nacefmoula&show_icons=true&theme=tokyonight" height="150"/>
-</p>
-
 ---
 
 ### 🧠 Currently Working On
