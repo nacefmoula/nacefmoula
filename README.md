@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm a third-year IT engineering student  
+- 🎓 I'm a Cloud engineering student  
 - 🌱 Currently learning **Symfony 6**, **JavaFX**, **FlutterFlow**, and **MERN Stack**  
 - 🧠 Passionate about **cloud computing**, **AI**, and **software architecture**  
 - 🎯 Future Goals: Become a **DevOps Engineer** or a **Cloud Solutions Architect**
