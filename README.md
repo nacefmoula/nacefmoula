@@ -2,7 +2,7 @@
 
 # Hey, I'm Nacef 👨‍💻
 
-### Cloud Engineering Student · Full-Stack Developer · Future DevOps/Cloud Architect
+### Cloud Engineering Student · Future DevOps/Cloud Architect
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=nacefmoula&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
